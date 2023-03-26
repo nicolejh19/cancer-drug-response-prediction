@@ -1,0 +1,444 @@
+,patient.arr,drug.name,response,response_cat,drug
+14,TCGA-G2-A2EC,Methotrexate,Partial Response,1,METHOTREXATE
+15,TCGA-G2-A2EC,Doxorubicin,Partial Response,1,DOXORUBICIN
+16,TCGA-G2-A2EC,Vinblastine,Partial Response,1,VINBLASTINE
+17,TCGA-G2-A2EC,Cisplatin,Partial Response,1,CISPLATIN
+32,TCGA-G2-A2EL,Etoposide,Stable Disease,0,ETOPOSIDE
+33,TCGA-G2-A2EL,Paclitaxel,Stable Disease,0,PACLITAXEL
+40,TCGA-BT-A2LD,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+41,TCGA-BT-A2LD,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+42,TCGA-DK-A3IQ,Gemcitabine,Stable Disease,0,GEMCITABINE
+43,TCGA-DK-A3IU,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+44,TCGA-DK-A3IU,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+45,TCGA-G2-A3IB,Methotrexate,Clinical Progressive Disease,0,METHOTREXATE
+46,TCGA-G2-A3IB,Doxorubicin,Clinical Progressive Disease,0,DOXORUBICIN
+47,TCGA-G2-A3IB,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+48,TCGA-G2-A3IB,Vinblastine,Clinical Progressive Disease,0,VINBLASTINE
+49,TCGA-G2-A3IE,Ifosfamide,Partial Response,1,IFOSFAMIDE
+50,TCGA-G2-A3IE,Gemcitabine,Partial Response,1,GEMCITABINE
+51,TCGA-G2-A3IE,Methotrexate,Clinical Progressive Disease,0,METHOTREXATE
+52,TCGA-G2-A3IE,Vinblastine,Clinical Progressive Disease,0,VINBLASTINE
+53,TCGA-G2-A3IE,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+56,TCGA-DK-A3IV,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+57,TCGA-DK-A3IV,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+60,TCGA-GV-A3QH,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+61,TCGA-GV-A3QH,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+64,TCGA-DK-A3WX,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+65,TCGA-DK-A3WX,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+68,TCGA-FD-A3SJ,Carboplatin,Stable Disease,0,CARBOPLATIN
+69,TCGA-FD-A3SJ,Gemcitabine,Stable Disease,0,GEMCITABINE
+70,TCGA-FD-A3SJ,Vinblastine,Stable Disease,0,VINBLASTINE
+71,TCGA-FD-A3SJ,Doxorubicin,Stable Disease,0,DOXORUBICIN
+72,TCGA-FD-A3SJ,Cisplatin,Stable Disease,0,CISPLATIN
+73,TCGA-FD-A3SJ,Methotrexate,Stable Disease,0,METHOTREXATE
+74,TCGA-FD-A3SO,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+75,TCGA-FD-A3SO,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+76,TCGA-FD-A3SQ,Cisplatin,Stable Disease,0,CISPLATIN
+77,TCGA-FD-A3SQ,Gemcitabine,Stable Disease,0,GEMCITABINE
+78,TCGA-GV-A3QF,Carboplatin,Stable Disease,0,CARBOPLATIN
+79,TCGA-GV-A3QF,Gemcitabine,Stable Disease,0,GEMCITABINE
+80,TCGA-BT-A42B,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+81,TCGA-BT-A42B,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+82,TCGA-BT-A42B,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+91,TCGA-GV-A40E,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+92,TCGA-GV-A40E,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+97,TCGA-CF-A47T,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+98,TCGA-CF-A47T,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+105,TCGA-FJ-A3Z9,Gemcitabine,Complete Response,1,GEMCITABINE
+106,TCGA-FJ-A3Z9,Cisplatin,Complete Response,1,CISPLATIN
+114,TCGA-FD-A62S,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+115,TCGA-FD-A62S,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+121,TCGA-FJ-A871,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+122,TCGA-FJ-A871,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+123,TCGA-FJ-A871,Methotrexate,Clinical Progressive Disease,0,METHOTREXATE
+124,TCGA-FJ-A871,Vinblastine,Clinical Progressive Disease,0,VINBLASTINE
+125,TCGA-FJ-A871,Doxorubicin,Clinical Progressive Disease,0,DOXORUBICIN
+130,TCGA-G2-AA3C,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+131,TCGA-G2-AA3C,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+142,TCGA-XF-A9SX,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+144,TCGA-XF-A9SZ,Gemcitabine,Complete Response,1,GEMCITABINE
+145,TCGA-XF-A9SZ,Cisplatin,Complete Response,1,CISPLATIN
+146,TCGA-XF-A9T4,Gemcitabine,Partial Response,1,GEMCITABINE
+147,TCGA-XF-A9T4,Ifosfamide,Clinical Progressive Disease,0,IFOSFAMIDE
+148,TCGA-XF-A9T4,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+153,TCGA-XF-AAME,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+154,TCGA-XF-AAME,Gemcitabine,Partial Response,1,GEMCITABINE
+155,TCGA-XF-AAME,Cisplatin,Partial Response,1,CISPLATIN
+156,TCGA-XF-AAMF,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+157,TCGA-XF-AAMF,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+158,TCGA-XF-AAMJ,Gemcitabine,Complete Response,1,GEMCITABINE
+164,TCGA-XF-AAMZ,BCG,Clinical Progressive Disease,0,BCG
+165,TCGA-XF-AAN0,E7389,Partial Response,1,E7389
+166,TCGA-XF-AAN0,Ifosfamide,Partial Response,1,IFOSFAMIDE
+167,TCGA-XF-AAN0,Cisplatin,Partial Response,1,CISPLATIN
+172,TCGA-XF-AAN7,Gemcitabine,Partial Response,1,GEMCITABINE
+173,TCGA-XF-AAN7,Ifosfamide,Clinical Progressive Disease,0,IFOSFAMIDE
+174,TCGA-XF-AAN7,Paclitaxel,Stable Disease,0,PACLITAXEL
+186,TCGA-E9-A1NG,Tamoxifen,Complete Response,1,TAMOXIFEN
+191,TCGA-E9-A226,Pamidronate,Partial Response,1,PAMIDRONATE
+321,TCGA-A2-A3XX,Cyclophosphamide,Complete Response,1,CYCLOPHOSPHAMIDE
+322,TCGA-A2-A3XX,Doxorubicin,Complete Response,1,DOXORUBICIN
+323,TCGA-A2-A3XX,Paclitaxel,Complete Response,1,PACLITAXEL
+419,TCGA-AC-A62V,Paclitaxel,Partial Response,1,PACLITAXEL
+425,TCGA-LL-A73Z,Doxorubicin,Clinical Progressive Disease,0,DOXORUBICIN
+426,TCGA-LL-A73Z,Cyclophosphamide,Clinical Progressive Disease,0,CYCLOPHOSPHAMIDE
+427,TCGA-LL-A73Z,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+428,TCGA-LL-A73Z,Fulvestrant,Clinical Progressive Disease,0,FULVESTRANT
+566,TCGA-C5-A1M6,Bleomycin,Clinical Progressive Disease,0,BLEOMYCIN
+567,TCGA-C5-A1M6,Vincristine,Clinical Progressive Disease,0,VINCRISTINE
+568,TCGA-C5-A1M6,Mitomycin,Clinical Progressive Disease,0,MITOMYCIN-C
+569,TCGA-C5-A1M6,Hydrocortisone,Clinical Progressive Disease,0,HYDROCORTISONE
+573,TCGA-HG-A2PA,Paclitaxel,Partial Response,1,PACLITAXEL
+574,TCGA-HG-A2PA,Carboplatin,Partial Response,1,CARBOPLATIN
+582,TCGA-IR-A3LK,Cisplatin,Complete Response,1,CISPLATIN
+583,TCGA-IR-A3LK,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+584,TCGA-IR-A3LK,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+593,TCGA-IR-A3LB,Cisplatin,Complete Response,1,CISPLATIN
+594,TCGA-IR-A3LB,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+595,TCGA-IR-A3LB,Carboplatin,Stable Disease,0,CARBOPLATIN
+596,TCGA-IR-A3LB,Paclitaxel,Stable Disease,0,PACLITAXEL
+617,TCGA-DS-A7WF,Cisplatin,Partial Response,1,CISPLATIN
+619,TCGA-DS-A7WI,Cisplatin,Complete Response,1,CISPLATIN
+624,TCGA-VS-A8EJ,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+625,TCGA-VS-A8EJ,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+626,TCGA-VS-A8EJ,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+627,TCGA-VS-A8EK,Cisplatin,Partial Response,1,CISPLATIN
+628,TCGA-VS-A8QC,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+630,TCGA-VS-A8QH,Gemcitabine,Partial Response,1,GEMCITABINE
+631,TCGA-VS-A8QM,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+632,TCGA-VS-A94X,Cisplatin,Partial Response,1,CISPLATIN
+633,TCGA-VS-A94Y,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+638,TCGA-UC-A7PG,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+650,TCGA-VS-A9UM,Cisplatin,Complete Response,1,CISPLATIN
+651,TCGA-VS-A9UM,Cisplatin,Complete Response,1,CISPLATIN
+652,TCGA-VS-A9UM,Paclitaxel,Complete Response,1,PACLITAXEL
+657,TCGA-VS-A9UY,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+659,TCGA-VS-A9V1,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+661,TCGA-VS-A9V5,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+662,TCGA-VS-AA62,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+665,TCGA-AZ-6600,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+666,TCGA-AZ-6600,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+667,TCGA-AZ-6600,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+673,TCGA-AZ-4616,Capecitabine,Stable Disease,0,CAPECITABINE
+674,TCGA-AZ-6605,FOLFOX,Stable Disease,0,FOLFOX
+675,TCGA-AZ-6606,Folfiri,Clinical Progressive Disease,0,FOLFIRI
+676,TCGA-AZ-6606,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+683,TCGA-AD-6964,Folfox,Clinical Progressive Disease,0,FOLFOX
+714,TCGA-A6-A565,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+715,TCGA-A6-A565,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+716,TCGA-A6-A565,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+717,TCGA-A6-A566,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+718,TCGA-A6-A566,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+719,TCGA-A6-A566,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+720,TCGA-A6-A566,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+721,TCGA-A6-A56B,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+722,TCGA-A6-A56B,Leucovorin,Complete Response,1,LEUCOVORIN
+723,TCGA-A6-A56B,Oxaliplatin,Complete Response,1,OXALIPLATIN
+724,TCGA-A6-A56B,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+725,TCGA-A6-A56B,Cetuximab,Complete Response,1,CETUXIMAB
+753,TCGA-AA-3680,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+754,TCGA-AA-3680,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+755,TCGA-AA-3680,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+756,TCGA-AA-3692,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+757,TCGA-AA-3692,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+758,TCGA-AA-3692,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+760,TCGA-AA-3692,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+767,TCGA-NH-A50U,Leucovorin,Partial Response,1,LEUCOVORIN
+768,TCGA-NH-A50U,Oxaliplatin,Partial Response,1,OXALIPLATIN
+770,TCGA-NH-A50U,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+772,TCGA-NH-A50U,Capecitabine,Clinical Progressive Disease,0,CAPECITABINE
+773,TCGA-NH-A50U,Regorafenib,Clinical Progressive Disease,0,REGORAFENIB
+774,TCGA-NH-A6GA,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+776,TCGA-NH-A6GA,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+777,TCGA-NH-A6GA,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+778,TCGA-NH-A6GA,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+779,TCGA-NH-A6GA,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+780,TCGA-NH-A6GA,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+790,TCGA-AA-3869,Capecitabine,Partial Response,1,CAPECITABINE
+791,TCGA-AA-3869,Leucovorin,Partial Response,1,LEUCOVORIN
+792,TCGA-AA-3869,Fluorouracil,Partial Response,1,5-FLUOROURACIL
+793,TCGA-AA-3869,Irinotecan,Partial Response,1,IRINOTECAN
+795,TCGA-AA-3869,Cetuximab,Partial Response,1,CETUXIMAB
+799,TCGA-AA-3930,Capecitabine,Clinical Progressive Disease,0,CAPECITABINE
+833,TCGA-AA-A02K,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+834,TCGA-AA-A02K,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+835,TCGA-AA-A02K,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+837,TCGA-A6-2671,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+838,TCGA-A6-2671,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+839,TCGA-A6-2671,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+840,TCGA-A6-2671,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+842,TCGA-A6-2671,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+843,TCGA-A6-2671,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+851,TCGA-AZ-4682,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+852,TCGA-AZ-4682,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+853,TCGA-AZ-4682,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+890,TCGA-CN-6996,Capecitabine,Clinical Progressive Disease,0,CAPECITABINE
+891,TCGA-CN-6996,Vorinostat,Clinical Progressive Disease,0,VORINOSTAT
+893,TCGA-CN-6998,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+903,TCGA-CR-7383,Paclitaxel,Partial Response,1,PACLITAXEL
+904,TCGA-CR-7383,Carboplatin,Partial Response,1,CARBOPLATIN
+924,TCGA-HD-8224,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+926,TCGA-CN-A498,Carboplatin,Complete Response,1,CARBOPLATIN
+927,TCGA-CN-A49A,Carboplatin,Complete Response,1,CARBOPLATIN
+932,TCGA-CQ-A4CH,Cisplatin,Partial Response,1,CISPLATIN
+935,TCGA-P3-A5Q6,Cisplatin,Complete Response,1,CISPLATIN
+936,TCGA-P3-A5Q6,Cetuximab,Complete Response,1,CETUXIMAB
+937,TCGA-BA-A6DI,Cisplatin,Complete Response,1,CISPLATIN
+938,TCGA-BA-A6DJ,Cisplatin,Complete Response,1,CISPLATIN
+942,TCGA-CN-A63W,Cisplatin,Complete Response,1,CISPLATIN
+943,TCGA-CN-A63W,Carboplatin,Complete Response,1,CARBOPLATIN
+945,TCGA-H7-A6C4,Cisplatin,Complete Response,1,CISPLATIN
+946,TCGA-H7-A6C4,Carboplatin,Complete Response,1,CARBOPLATIN
+947,TCGA-H7-A6C4,Cetuximab,Complete Response,1,CETUXIMAB
+951,TCGA-IQ-A61O,Cisplatin,Complete Response,1,CISPLATIN
+954,TCGA-BA-A6DD,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+963,TCGA-QK-A6IG,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+964,TCGA-QK-A6IG,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+968,TCGA-QK-A6II,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+969,TCGA-QK-A6II,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+970,TCGA-QK-A6II,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+976,TCGA-KU-A6H8,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+977,TCGA-MZ-A5BI,Cisplatin,Complete Response,1,CISPLATIN
+981,TCGA-P3-A6T3,Cisplatin,Complete Response,1,CISPLATIN
+982,TCGA-P3-A6T6,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+983,TCGA-P3-A6T6,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+984,TCGA-P3-A6T7,Cisplatin,Complete Response,1,CISPLATIN
+986,TCGA-RS-A6TO,Cetuximab,Complete Response,1,CETUXIMAB
+987,TCGA-T2-A6WX,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+988,TCGA-T2-A6WZ,px-866,Stable Disease,0,PX-866
+992,TCGA-UF-A7JC,Cisplatin,Complete Response,1,CISPLATIN
+995,TCGA-UF-A7JK,Cisplatin,Complete Response,1,CISPLATIN
+998,TCGA-QK-A8Z9,Carboplatin,Complete Response,1,CARBOPLATIN
+999,TCGA-QK-A8Z9,Paclitaxel,Complete Response,1,PACLITAXEL
+1000,TCGA-CN-4731,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+1001,TCGA-CN-4731,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1229,TCGA-50-5930,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1230,TCGA-50-5933,Carboplatin,Complete Response,1,CARBOPLATIN
+1231,TCGA-50-5933,Paclitaxel,Complete Response,1,PACLITAXEL
+1236,TCGA-50-5051,Carboplatin,Partial Response,1,CARBOPLATIN
+1237,TCGA-50-5051,Paclitaxel,Partial Response,1,PACLITAXEL
+1238,TCGA-50-5072,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+1239,TCGA-50-5072,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+1245,TCGA-53-7624,Irinotecan,Clinical Progressive Disease,0,IRINOTECAN
+1246,TCGA-53-7624,Erlotinib,Clinical Progressive Disease,0,ERLOTINIB
+1247,TCGA-53-7624,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+1248,TCGA-53-7624,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1249,TCGA-53-7624,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+1250,TCGA-53-7624,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+1251,TCGA-53-7624,Vinorelbine,Clinical Progressive Disease,0,VINORELBINE
+1252,TCGA-53-7624,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+1254,TCGA-53-7624,Pemetrexed,Clinical Progressive Disease,0,PEMETREXED
+1255,TCGA-53-7626,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+1256,TCGA-53-7626,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1257,TCGA-86-7711,Cisplatin,Complete Response,1,CISPLATIN
+1258,TCGA-86-7711,Etoposide,Complete Response,1,ETOPOSIDE
+1277,TCGA-86-8075,Etoposide,Complete Response,1,ETOPOSIDE
+1278,TCGA-86-8075,Cisplatin,Complete Response,1,CISPLATIN
+1281,TCGA-99-8033,Paclitaxel,Stable Disease,0,PACLITAXEL
+1290,TCGA-62-8398,Carboplatin,Complete Response,1,CARBOPLATIN
+1291,TCGA-62-8398,Vinorelbine,Complete Response,1,VINORELBINE
+1308,TCGA-62-A46Y,Cisplatin,Complete Response,1,CISPLATIN
+1309,TCGA-62-A46Y,Vinorelbine,Complete Response,1,VINORELBINE
+1322,TCGA-MP-A4T9,Vinorelbine,Complete Response,1,VINORELBINE
+1323,TCGA-MP-A4T9,Cisplatin,Complete Response,1,CISPLATIN
+1324,TCGA-MP-A4T9,Gemcitabine,Complete Response,1,GEMCITABINE
+1325,TCGA-MP-A4TC,Cisplatin,Complete Response,1,CISPLATIN
+1326,TCGA-MP-A4TC,Vinorelbine,Complete Response,1,VINORELBINE
+1333,TCGA-MP-A4TD,Cisplatin,Complete Response,1,CISPLATIN
+1334,TCGA-MP-A4TD,Gemcitabine,Complete Response,1,GEMCITABINE
+1335,TCGA-MP-A4TF,Vinorelbine,Partial Response,1,VINORELBINE
+1336,TCGA-MP-A4TF,Cisplatin,Partial Response,1,CISPLATIN
+1341,TCGA-49-AAR4,Paclitaxel,Partial Response,1,PACLITAXEL
+1342,TCGA-49-AAR4,Carboplatin,Partial Response,1,CARBOPLATIN
+1343,TCGA-73-A9RS,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+1344,TCGA-73-A9RS,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+1346,TCGA-73-A9RS,Pemetrexed,Clinical Progressive Disease,0,PEMETREXED
+1347,TCGA-73-A9RS,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1350,TCGA-05-4402,Carboplatin,Complete Response,1,CARBOPLATIN
+1351,TCGA-05-4402,Vinorelbine,Complete Response,1,VINORELBINE
+1352,TCGA-05-4402,Erlotinib,Complete Response,1,ERLOTINIB
+1363,TCGA-50-5068,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+1374,TCGA-43-5668,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+1381,TCGA-58-8387,Cisplatin,Complete Response,1,CISPLATIN
+1382,TCGA-58-8387,Vinorelbine,Complete Response,1,VINORELBINE
+1395,TCGA-58-A46K,Carboplatin,Complete Response,1,CARBOPLATIN
+1396,TCGA-58-A46K,Vinorelbine,Complete Response,1,VINORELBINE
+1413,TCGA-L3-A524,Cisplatin,Complete Response,1,CISPLATIN
+1414,TCGA-L3-A524,Gemcitabine,Complete Response,1,GEMCITABINE
+1417,TCGA-90-A59Q,Cisplatin,Complete Response,1,CISPLATIN
+1423,TCGA-NC-A5HJ,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+1424,TCGA-NC-A5HJ,Pemetrexed,Clinical Progressive Disease,0,PEMETREXED
+1429,TCGA-NC-A5HP,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+1430,TCGA-NC-A5HP,Vinorelbine,Clinical Progressive Disease,0,VINORELBINE
+1431,TCGA-NC-A5HP,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+1432,TCGA-NC-A5HP,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+1433,TCGA-NC-A5HQ,Carboplatin,Complete Response,1,CARBOPLATIN
+1434,TCGA-NC-A5HQ,Vinorelbine,Complete Response,1,VINORELBINE
+1439,TCGA-33-AASI,Docetaxel,Stable Disease,0,DOCETAXEL
+1440,TCGA-33-AASI,Gemcitabine,Stable Disease,0,GEMCITABINE
+1853,TCGA-D3-A1Q1,Cyclophosphamide,Clinical Progressive Disease,0,CYCLOPHOSPHAMIDE
+1854,TCGA-D3-A1Q3,Cisplatin,Complete Response,1,CISPLATIN
+1855,TCGA-D3-A1Q9,Leuprolide,Clinical Progressive Disease,0,LEUPROLIDE
+1856,TCGA-D3-A1Q9,GP-100,Clinical Progressive Disease,0,GP100
+1860,TCGA-EE-A29C,Dabrafenib,Clinical Progressive Disease,0,DABRAFENIB
+1862,TCGA-EE-A29C,Dabrafenib,Clinical Progressive Disease,0,DABRAFENIB
+1863,TCGA-EE-A29C,Trametinib,Clinical Progressive Disease,0,TRAMETINIB
+1864,TCGA-EE-A29Q,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1865,TCGA-EE-A29V,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1866,TCGA-EE-A2GS,Dabrafenib,Clinical Progressive Disease,0,DABRAFENIB
+1868,TCGA-EE-A2GS,Vemurafenib,Clinical Progressive Disease,0,VEMURAFENIB
+1869,TCGA-EE-A2M5,PNU-159548,Clinical Progressive Disease,0,PNU-159548
+1870,TCGA-EE-A2MD,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1873,TCGA-EE-A2ML,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1874,TCGA-EE-A2ML,Fotemustine,Clinical Progressive Disease,0,FOTEMUSTINE
+1877,TCGA-EE-A2MN,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1878,TCGA-EE-A2MQ,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1880,TCGA-EE-A3AF,Fotemustine,Clinical Progressive Disease,0,FOTEMUSTINE
+1882,TCGA-ER-A19H,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1887,TCGA-HR-A2OH,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1888,TCGA-HR-A2OH,Aldesleukin,Clinical Progressive Disease,0,ALDESLEUKIN
+1890,TCGA-EE-A3JI,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1912,TCGA-EB-A550,Tamoxifen,Complete Response,1,TAMOXIFEN
+1915,TCGA-EB-A5FP,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1916,TCGA-EB-A5FP,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+1917,TCGA-EB-A5KH,Cisplatin,Complete Response,1,CISPLATIN
+1918,TCGA-EB-A5KH,Vinblastine,Complete Response,1,VINBLASTINE
+1919,TCGA-EB-A5KH,Dacarbazine,Complete Response,1,DACARBAZINE
+1921,TCGA-EB-A57M,Cisplatin,Complete Response,1,CISPLATIN
+1922,TCGA-EB-A57M,Vinblastine,Complete Response,1,VINBLASTINE
+1923,TCGA-EB-A57M,Ondansetron,Complete Response,1,ONDANSETRON
+1924,TCGA-EB-A57M,Dexamethasone,Complete Response,1,DEXAMETHASONE
+1925,TCGA-EB-A57M,Dacarbazine,Complete Response,1,DACARBAZINE
+1927,TCGA-EB-A57M,Cyclosporine,Complete Response,1,CYCLOSPORINE
+1938,TCGA-EB-A6QZ,Dacarbazine,Partial Response,1,DACARBAZINE
+1939,TCGA-EB-A6QZ,Vincristine,Partial Response,1,VINCRISTINE
+1940,TCGA-EB-A6R0,Lomustine,Complete Response,1,LOMUSTINE
+1948,TCGA-GN-A4U9,Melphalan,Complete Response,1,MELPHALAN
+1949,TCGA-GN-A4U9,Axitinib,Clinical Progressive Disease,0,AXITINIB
+1954,TCGA-W3-A825,Cisplatin,Partial Response,1,CISPLATIN
+1955,TCGA-W3-A825,Vinblastine,Partial Response,1,VINBLASTINE
+1956,TCGA-W3-A825,Dacarbazine,Partial Response,1,DACARBAZINE
+1957,TCGA-W3-A825,Tamoxifen,Partial Response,1,TAMOXIFEN
+1958,TCGA-W3-A825,Aldesleukin,Partial Response,1,ALDESLEUKIN
+1962,TCGA-FR-A8YC,Doxorubicin,Clinical Progressive Disease,0,DOXORUBICIN
+1965,TCGA-GN-A8LK,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+1966,TCGA-GN-A8LK,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1969,TCGA-WE-A8ZR,Vemurafenib,Clinical Progressive Disease,0,VEMURAFENIB
+1970,TCGA-W3-AA1O,Carmustine,Clinical Progressive Disease,0,CARMUSTINE
+1971,TCGA-W3-AA1O,Tamoxifen,Clinical Progressive Disease,0,TAMOXIFEN
+1972,TCGA-W3-AA1O,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+1973,TCGA-W3-AA1O,Dacarbazine,Clinical Progressive Disease,0,DACARBAZINE
+1974,TCGA-W3-AA1Q,Tamoxifen,Clinical Progressive Disease,0,TAMOXIFEN
+1975,TCGA-W3-AA1Q,Trastuzumab,Clinical Progressive Disease,0,TRASTUZUMAB
+1977,TCGA-W3-AA1Q,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+1979,TCGA-W3-AA21,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+1980,TCGA-W3-AA21,Temozolomide,Clinical Progressive Disease,0,TEMOZOLOMIDE
+1985,TCGA-W3-AA1R,Aldesleukin,Clinical Progressive Disease,0,ALDESLEUKIN
+1986,TCGA-GN-A9SD,Dactinomycin,Clinical Progressive Disease,0,DACTINOMYCIN
+1987,TCGA-GN-A9SD,Melphalan,Clinical Progressive Disease,0,MELPHALAN
+1988,TCGA-GN-A9SD,Vemurafenib,Clinical Progressive Disease,0,VEMURAFENIB
+1989,TCGA-GN-A9SD,Melphalan,Clinical Progressive Disease,0,MELPHALAN
+1992,TCGA-BR-6458,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+1993,TCGA-BR-6458,Leucovorin,Complete Response,1,LEUCOVORIN
+1994,TCGA-BR-6458,Etoposide,Complete Response,1,ETOPOSIDE
+1996,TCGA-BR-6706,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+1997,TCGA-BR-6706,Etoposide,Complete Response,1,ETOPOSIDE
+1998,TCGA-BR-6706,Leucovorin,Complete Response,1,LEUCOVORIN
+1999,TCGA-BR-6707,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+2000,TCGA-BR-6707,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2001,TCGA-BR-6707,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2019,TCGA-FP-7916,Capecitabine,Clinical Progressive Disease,0,CAPECITABINE
+2022,TCGA-HJ-7597,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2023,TCGA-HJ-7597,Irinotecan,Complete Response,1,IRINOTECAN
+2024,TCGA-HJ-7597,Methotrexate,Clinical Progressive Disease,0,METHOTREXATE
+2026,TCGA-BR-8291,Etoposide,Complete Response,1,ETOPOSIDE
+2027,TCGA-BR-8291,Leucovorin,Complete Response,1,LEUCOVORIN
+2028,TCGA-BR-8291,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2029,TCGA-BR-8296,Etoposide,Complete Response,1,ETOPOSIDE
+2030,TCGA-BR-8296,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2031,TCGA-BR-8296,Leucovorin,Complete Response,1,LEUCOVORIN
+2037,TCGA-BR-8367,Etoposide,Complete Response,1,ETOPOSIDE
+2038,TCGA-BR-8367,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+2042,TCGA-BR-8371,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2044,TCGA-BR-8371,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2046,TCGA-BR-8371,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+2047,TCGA-BR-8371,Etoposide,Clinical Progressive Disease,0,ETOPOSIDE
+2057,TCGA-FP-8210,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2058,TCGA-FP-8210,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2059,TCGA-FP-8210,Etoposide,Clinical Progressive Disease,0,ETOPOSIDE
+2064,TCGA-HU-8243,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2073,TCGA-BR-8590,Etoposide,Complete Response,1,ETOPOSIDE
+2074,TCGA-BR-8590,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2075,TCGA-BR-8590,Leucovorin,Complete Response,1,LEUCOVORIN
+2076,TCGA-BR-8592,Etoposide,Complete Response,1,ETOPOSIDE
+2077,TCGA-BR-8592,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2078,TCGA-BR-8592,Leucovorin,Complete Response,1,LEUCOVORIN
+2094,TCGA-CD-A486,Paclitaxel,Complete Response,1,PACLITAXEL
+2095,TCGA-CD-A486,Cisplatin,Complete Response,1,CISPLATIN
+2096,TCGA-CD-A486,Capecitabine,Complete Response,1,CAPECITABINE
+2124,TCGA-BR-A4QL,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2125,TCGA-BR-A4QL,Leucovorin,Complete Response,1,LEUCOVORIN
+2126,TCGA-BR-A4QL,Oxaliplatin,Complete Response,1,OXALIPLATIN
+2127,TCGA-BR-A4QL,Capecitabine,Complete Response,1,CAPECITABINE
+2128,TCGA-BR-A4QL,Oxaliplatin,Complete Response,1,OXALIPLATIN
+2156,TCGA-D7-A748,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2158,TCGA-D7-A747,Epirubicin,Clinical Progressive Disease,0,EPIRUBICIN
+2159,TCGA-D7-A747,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+2160,TCGA-D7-A747,Capecitabine,Clinical Progressive Disease,0,CAPECITABINE
+2177,TCGA-VQ-A8DU,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2178,TCGA-VQ-A8DZ,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2181,TCGA-VQ-A8PB,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2182,TCGA-VQ-A8E0,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2183,TCGA-VQ-A8PD,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2184,TCGA-VQ-A8PP,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2187,TCGA-VQ-A8PU,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2188,TCGA-VQ-A8PY,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2190,TCGA-VQ-A91D,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2193,TCGA-VQ-A91N,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2194,TCGA-VQ-A91Q,Fluorouracil,Complete Response,1,5-FLUOROURACIL
+2197,TCGA-VQ-A91Y,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2200,TCGA-VQ-A922,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2206,TCGA-VQ-AA6G,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2211,TCGA-CG-4460,Capecitabine,Partial Response,1,CAPECITABINE
+2212,TCGA-CG-4460,Cisplatin,Partial Response,1,CISPLATIN
+2213,TCGA-CG-4460,Leucovorin,Partial Response,1,LEUCOVORIN
+2214,TCGA-CG-4460,Cisplatin,Partial Response,1,CISPLATIN
+2215,TCGA-CG-4460,Fluorouracil,Partial Response,1,5-FLUOROURACIL
+2219,TCGA-CG-5717,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2220,TCGA-CG-5717,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+2221,TCGA-CG-5717,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2222,TCGA-CG-5724,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+2223,TCGA-CG-5725,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2224,TCGA-CG-5725,Oxaliplatin,Clinical Progressive Disease,0,OXALIPLATIN
+2225,TCGA-CG-5725,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2226,TCGA-CG-5725,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+2227,TCGA-CG-5725,Cetuximab,Clinical Progressive Disease,0,CETUXIMAB
+2228,TCGA-CG-5732,Mitomycin,Complete Response,1,MITOMYCIN-C
+2229,TCGA-CG-5732,Fluorouracil,Clinical Progressive Disease,0,5-FLUOROURACIL
+2230,TCGA-CG-5732,Leucovorin,Clinical Progressive Disease,0,LEUCOVORIN
+2231,TCGA-CG-5732,Cisplatin,Clinical Progressive Disease,0,CISPLATIN
+2232,TCGA-CG-5732,Docetaxel,Clinical Progressive Disease,0,DOCETAXEL
+2409,TCGA-FI-A2D5,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2410,TCGA-FI-A2D5,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2423,TCGA-EY-A2ON,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2424,TCGA-EY-A2ON,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2425,TCGA-EY-A2ON,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2426,TCGA-FI-A2EY,Carboplatin,Complete Response,1,CARBOPLATIN
+2427,TCGA-FI-A2EY,Paclitaxel,Complete Response,1,PACLITAXEL
+2440,TCGA-AJ-A23N,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2441,TCGA-AJ-A23N,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2442,TCGA-AJ-A3I9,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2443,TCGA-AJ-A3I9,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2448,TCGA-AJ-A3OL,Carboplatin,Complete Response,1,CARBOPLATIN
+2449,TCGA-AJ-A3OL,Paclitaxel,Complete Response,1,PACLITAXEL
+2453,TCGA-B5-A1MS,Gemcitabine,Clinical Progressive Disease,0,GEMCITABINE
+2454,TCGA-B5-A1MS,Topotecan,Clinical Progressive Disease,0,TOPOTECAN
+2460,TCGA-EY-A3QX,Paclitaxel,Complete Response,1,PACLITAXEL
+2461,TCGA-EY-A3QX,Carboplatin,Complete Response,1,CARBOPLATIN
+2462,TCGA-K6-A3WQ,Doxorubicin,Clinical Progressive Disease,0,DOXORUBICIN
+2466,TCGA-AP-A5FX,Carboplatin,Complete Response,1,CARBOPLATIN
+2467,TCGA-AP-A5FX,Paclitaxel,Complete Response,1,PACLITAXEL
+2468,TCGA-EY-A4KR,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2469,TCGA-EY-A4KR,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
+2480,TCGA-QS-A8F1,Carboplatin,Clinical Progressive Disease,0,CARBOPLATIN
+2481,TCGA-QS-A8F1,Paclitaxel,Clinical Progressive Disease,0,PACLITAXEL
